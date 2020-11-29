@@ -1,0 +1,7 @@
+
+__pycache__/
+.ipynb_checkpoints/
+Untitled.ipynb
+mean_var_std.pyc 
+test_module.pyc
+main.py
